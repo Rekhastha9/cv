@@ -1,0 +1,113 @@
+<html> 
+<head>
+<title> CURRICULUM VITAE </title>
+</head>
+<body>
+<table>
+<tr>
+<td> <img src="rekha.jpg" width="50px" height="50px"> </td>
+<td><h1> Rekha Shrestha</h1>
+<p>Address: Tikathali, Lalitpur</p>
+<p>Contact no: 9860876027</p>
+<p>Email: shrestharekha120@gmail.com</p>
+</td>
+</tr>
+</table>
+<hr>
+<h3><u>PERSONAL INFORMATION</u></h3>
+<table>
+<tr>
+<td>Date of Birth</td>		
+<td>: 2001-01-11</td>
+</tr>
+<tr>
+<td>Gender</td>			
+<td>: Female</td>
+</tr>
+<tr>
+<td>Religion</td>			
+<td>: hinduism</td>
+</tr>
+<tr>
+<td>Marital Status</td>			
+<td>: Unmarried</td>
+</tr>
+<tr>
+<td>Nationality</td>			
+<td>: Nepalese</td>
+</tr>
+<tr>
+<td>Language</td>			
+<td>: Nepali and English</td>
+</tr>
+</table>
+<hr>
+<h3><u>ACADEMIC QUALIFICATION</u></h3>
+<table border="4">
+<tr>
+<th>Name of Degree</th>
+<th>Institution</th>
+<th>Board</th>
+<th>Major Subject</th>
+<th>Passed Year</th>
+<th>GPA</th>
+</tr>
+<tr>
+<td>Bachelor</td>
+<td>Nesfield International College</td>
+<td>TU</td>
+<td>Computer</td>
+<td>2040</td>
+<td>3.01</td>
+</tr>
+<tr>
+<td>+2</td>
+<td>Omega internatinal college</td>
+<td>NEB</td>
+<td>Management</td>
+<td>2076</td>
+<td>2.60</td>
+</tr>
+<tr>
+<td>SEE</td>
+<td>Ashraya Vidhya Sadan</td>
+<td>NEB</td>
+<td>English</td>
+<td>2073</td>
+<td>2.90</td>
+</tr>
+</table>
+<hr>
+<h3><u>PROGRAMMING AND OTHER SKILLS</u></h3>
+<ol>
+<li>Microsoft word </li>
+<li>Microsoft Powerpoint</li>
+<li>Photoshop</li>
+<li>C Programming Language</li>
+<li>MYSQL Database</li>
+<li>Html</li>
+<hr>
+<h3><u>HOBBIES</u></h3>
+<ul>
+<li>Dancing</li>
+<li>Singing</li>
+<li>Travelling</li>
+<li>Photography</li>
+<li>Reading</li>
+<li>Playing games</li>
+</ul>
+<hr>
+<h3><u>TRAINING</u></h3>
+learning java programmimg and basic html.
+<hr>
+<h3><u>OTHER INFORMATION</u></h3>
+<ul>
+<li>Expected salary: As per company standards</li>
+<li>Area of interest: Technical support,Customer Happiness,Client service,Business Analysis</li>
+</ul>
+<hr>
+<h3><u>DECLARATION</u></h3>
+I hereby declare that the details given above are true and correct to the best of my knowledge and belief.
+
+
+
